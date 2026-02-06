@@ -1,4 +1,4 @@
-# NathyCheats v0.1
+# NathyCheats
 
 **NathyCheats** is a cheat mod for **Super Mario 64 Coop Deluxe (SM64CD)** that allows players to activate various abilities and modifiers directly through the in‑game chat.  
 It is designed to be simple, fast, and fun — perfect for testing levels, exploring freely, or just messing around with friends.
