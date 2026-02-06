@@ -14,11 +14,15 @@ All cheats are activated using chat commands, and they apply instantly to the lo
 
 This mod does **not** modify game files or require external tools — just drop it into your `mods` folder and enjoy.
 
+---
+
 ## Notes
 
 - Cheats only affect the **local player**.
 - Fully compatible with **SM64 Coop Deluxe v1.4.1**.
 - More features and commands will be added in future versions.
+
+---
 
 ## Credits
 
